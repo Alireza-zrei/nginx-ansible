@@ -42,6 +42,6 @@ Clone this repository to your local machine to get started.
 
 ### Step 2: Run Ansible Playbook.yml
 
-``sh
+``
 ansible-playbook -i inventory.yaml --ask-become-pass playbook.yaml
 ``
