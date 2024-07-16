@@ -21,6 +21,5 @@ Clone this repository to your local machine to get started.
 
 ```
 ansible-playbook -i inventory.yaml --ask-become-pass playbook.yaml
-`` 
 
-
+``` 
